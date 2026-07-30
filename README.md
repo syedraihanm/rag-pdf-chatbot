@@ -84,7 +84,7 @@ rag-chatbot/
 
 ```bash
 # Clone the repository
-git clone [https://github.com/your-username/rag-pdf-chatbot.git](https://github.com/your-username/rag-pdf-chatbot.git)
+git clone https://github.com/syedraihanm/rag-pdf-chatbot.git
 cd rag-pdf-chatbot
 
 # Create a virtual environment
